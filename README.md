@@ -1,5 +1,5 @@
 # Perl-Programming
 
-# Perl Programming Hello World
+# Hello World in Perl Programming 
 
-# Practise of Program and Processes in Perl
+# Practise of Programs and Processes in Perl
