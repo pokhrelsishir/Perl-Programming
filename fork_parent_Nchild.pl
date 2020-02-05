@@ -1,5 +1,3 @@
-# Author: Sishir Pokhrel
-
 #!/usr/bin/perl
 use strict;
 use warnings;
@@ -33,3 +31,6 @@ for (my $id = 0; $i < MAXCHILD; $i++)
 print "Parent($$): End \n";
 
 exit;
+
+
+# Author: Sishir Pokhrel
